@@ -1,4 +1,4 @@
-# medicalerrorcorrection
+# Automatic Speech Recognition Error Correction on ICU Clinical Narration Dataset
 CS 224N Final Project
 
 Code based on [ConstDecoder](https://github.com/yangjingyuan/ConstDecoder).
